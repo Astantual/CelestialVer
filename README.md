@@ -1,2 +1,0 @@
-# CelestialVer
-celestials version
